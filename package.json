@@ -1,0 +1,29 @@
+{
+  "name": "odin-testing",
+  "version": "1.0.0",
+  "description": "Learning how to write tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lanut1/odin-testing.git"
+  },
+  "keywords": [
+    "Jest",
+    "testing"
+  ],
+  "author": "Lanut1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lanut1/odin-testing/issues"
+  },
+  "homepage": "https://github.com/Lanut1/odin-testing#readme",
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
